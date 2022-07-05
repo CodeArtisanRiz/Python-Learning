@@ -6,5 +6,5 @@ print(type(birth_year))
 age = 2022 - int(birth_year) # Convert birth_year from str to int
 # Print the type of age
 print(type(age))
-# print age variable
+# print age
 print(age)

@@ -20,3 +20,14 @@ print(x)
 # Substraction
 x -= 3
 print(x)
+# order
+# 1. exponentiation 2 ** 2
+# 2. division
+# 3. multiplication
+# 4. addition
+# 5. substraction
+y = 10 + 3 * 2 ** 2
+print(y)
+# change order with ()
+z = (10 + 3) * 2 ** 2
+print(z)

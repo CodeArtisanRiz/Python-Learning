@@ -8,7 +8,7 @@ while guess_count < guess_limt:
         print("You won..!")
         break
     else:
-        print("try again..")
+        if guess_count < 3:
+            print("try again..")
 else:
     print("You failed...")
-print("Game ended...")

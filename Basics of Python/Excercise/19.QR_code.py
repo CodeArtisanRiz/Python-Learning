@@ -1,6 +1,6 @@
 # Pre-requisite
-# Install "pip install pyqrcode" library
-# Install "pip install pypng" library
+# Install "pip install pyqrcode"
+# Install "pip install pypng"
 import pyqrcode
 import png
 

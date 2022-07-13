@@ -2,7 +2,7 @@ import openpyxl as xl
 from openpyxl.chart import BarChart, PieChart, Reference
 
 # def process_workbook(filename):
-wb = xl.load_workbook('./sheets/transaction_sheet.xlsx')
+wb = xl.load_workbook('sheets/transaction_sheet.xlsx')
 sheet = wb['Sheet1']
 # cell = sheet['a1']
 # print(sheet.max_row)
